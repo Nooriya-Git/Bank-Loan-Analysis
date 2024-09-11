@@ -12,8 +12,8 @@ The purpose of this project is to conduct an in-depth analysis of bank loan data
 ## Files in the Repository
 This repository includes the following files:
 
-- `Loan Analysis.pbix`: A Power BI file containing the loan analysis dashboard with interactive visualizations.
-- `SQL Queries.docx`: A Word document that contains all the SQL queries used to retrieve and manipulate the data for analysis.
+- `Bank Loan Analysis.pbix`: A Power BI file containing the loan analysis dashboard with interactive visualizations.
+- `Bank Loan REport Query Document.docx`: A Word document that contains all the SQL queries used to retrieve and manipulate the data for analysis.
 - `Dashboard Screenshots`: Images of the Power BI dashboard showing key visualizations and insights.
 - `README.md`: This file provides an overview of the project, instructions on usage, and insights from the analysis.
 
