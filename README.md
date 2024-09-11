@@ -129,4 +129,14 @@ The SQL queries in the accompanying document were used to extract and transform 
 2. **SQL Queries**: The SQL Queries.docx contains all the queries used to generate the dataset. You can run these queries on your SQL database if you want to replicate the data preparation process.
 3. **Screenshots**: The screenshots included in the repository provide a quick overview of the key dashboard sections if you don't have access to Power BI.
 
+## Visual Dashboard Overview
+#### Summary
+![Dashboard Summary](https://github.com/user-attachments/assets/387336e9-3f77-4f4c-b4ad-f63bedf11b81)
+
+#### Overview
+![Dashboard Overview](https://github.com/user-attachments/assets/c0d7bfd8-e756-4877-9258-37d48dc54089)
+
+#### Detail
+![Dashboard Details](https://github.com/user-attachments/assets/21d69b73-adb3-4482-990e-857e6a4051f1)
+
 
